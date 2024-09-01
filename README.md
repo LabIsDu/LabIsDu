@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello, Word!
 
 <!--
 **Hive-great/Hive-great** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
