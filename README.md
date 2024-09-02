@@ -42,11 +42,11 @@
     </div>
   </li>
   <li>
-    <h3><a href="#">[Outro Projeto]</a></h3>
+    <h3><a href="#"></a></h3>
     <p style="text-align: justify;"></p>
   </li>
   <li>
-    <h3><a href="#">[Outro Projeto]</a></h3>
+    <h3><a href="#"></a></h3>
     <p style="text-align: justify;"></p>
   </li>
 </ul>
