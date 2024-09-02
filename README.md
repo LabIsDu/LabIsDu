@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">About me:</p>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -32,7 +28,7 @@
 ###
 
 <div align="left">
-  <img height="400" src="https://i.gifer.com/UaRg.gif"  />
+  <img height="397" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dheHo3cHhjenQ2b2Z2OG1jMHplczdjdGZhaXl1ZHlqaDBrNG42biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IuVFGSQZTd6TK/giphy.gif"  />
 </div>
 
 ###
