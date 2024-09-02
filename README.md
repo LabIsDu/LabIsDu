@@ -38,7 +38,7 @@
     <h3><a href="#">Eco Race</a></h3>
     <p style="text-align: justify;">A fun and educational endless runner game that teaches players to differentiate between electronic and regular waste while promoting sustainability.</p>
     <div align="left">
-      <img height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dheHo3cHhjenQ2b2Z2OG1jMHplczdjdGZhaXl1ZHlqaDBrNG42biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IuVFGSQZTd6TK/giphy.gif" alt="Eco Race gif"/>
+      <img height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZ3bjM3MnR6M3hrYjBvZDEybzhmZDlqbGh2cjZ4ejV3OGxvd3Y3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T2kaAhj2XdL9ADzV4d/giphy.gif" alt="Eco Race gif"/>
     </div>
   </li>
   <li>
