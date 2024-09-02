@@ -1,15 +1,10 @@
-<h2 align="left">Hello, World!</h2>
+<h1 align="left">Hello, World!</h1>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LabIsDu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LabIsDu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVsaGRjeGl2YTNrbjdmM3J2aWptaXFsa2I4YjEwc3B0bDhnenQ0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kei2gWq7nysJAwbebu/giphy.gif"  />
 
 ###
 
@@ -38,8 +33,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LabIsDu/LabIsDu/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFxaHF1ZGI3OHR1MHQzcmtxbmJ3bDVydDU2NjIwYnc3b3d3cGV6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFHa3Kg39gFLVbinN1/giphy.gif"  />
+</div>
 
 ###
