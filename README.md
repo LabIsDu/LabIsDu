@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LabIsDu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+<p align="left">About me:</p>
 
 ###
 
@@ -33,8 +31,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFxaHF1ZGI3OHR1MHQzcmtxbmJ3bDVydDU2NjIwYnc3b3d3cGV6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFHa3Kg39gFLVbinN1/giphy.gif"  />
+<div align="left">
+  <img height="400" src="https://i.gifer.com/UaRg.gif"  />
 </div>
 
 ###
