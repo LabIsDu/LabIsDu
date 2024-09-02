@@ -1,7 +1,7 @@
 <h1 align="left">Hello, World!</h1>
 
 ###
-
+  * My Skills:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -17,7 +17,7 @@
 </div>
 
 ###
-
+ * Social Media:
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -26,7 +26,9 @@
 </div>
 
 ###
-
+ <h1 align="left">About me</h1>
+  <p>My name is Edu....</p>
+  <p> * Student</p>
 <div align="left">
   <img height="397" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dheHo3cHhjenQ2b2Z2OG1jMHplczdjdGZhaXl1ZHlqaDBrNG42biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IuVFGSQZTd6TK/giphy.gif"  />
 </div>
