@@ -43,12 +43,12 @@
   </li>
   <li>
     <h3><a href="#">Jifa Team</a></h3>
-    <p style="text-align: justify;">Claro, aqui está a frase corrigida:
+    <p style="text-align: justify;">
 
 My organization. Here are several academic works completed during my graduation in Systems Analysis and Development.</p>
   </li>
   <li>
-    <h3><a href="#"></a></h3>
+    <h3><a href="https://github.com/jifa-team"></a></h3>
     <p style="text-align: justify;"></p>
   </li>
 </ul>
