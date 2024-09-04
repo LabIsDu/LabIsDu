@@ -47,8 +47,4 @@
 
 My organization. Here are several academic works completed during my graduation in Systems Analysis and Development.</p>
   </li>
-  <li>
-    <h3><a href=""></a></h3>
-    <p style="text-align: justify;"></p>
-  </li>
-</ul>
+
