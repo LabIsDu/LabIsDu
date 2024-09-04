@@ -42,8 +42,10 @@
     </div>
   </li>
   <li>
-    <h3><a href="#"></a></h3>
-    <p style="text-align: justify;"></p>
+    <h3><a href="#">Jifa Team</a></h3>
+    <p style="text-align: justify;">Claro, aqui está a frase corrigida:
+
+**My organization. Here are several academic works completed during my graduation in Systems Analysis and Development.</p>
   </li>
   <li>
     <h3><a href="#"></a></h3>
