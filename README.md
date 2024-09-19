@@ -49,3 +49,11 @@ My organization. Here are several academic works completed during my graduation 
   </li>
     <img height="150" src="https://github.com/user-attachments/assets/4889b13f-239e-4491-9fa3-80ab380df9dd" alt="Jifa Team"/>
 
+  <li>
+    <h3><a href="https://github.com/LabIsDu/Aplicacao-Iaas-Em-Nuvem">Application of Docker and Docker Compose in the cloud using IaaS</a></h3>
+    <p style="text-align: justify;">
+
+We implemented an application on a virtual machine in the cloud, using Infrastructure as a Service (IaaS). The virtual machine was controlled remotely via SSH, allowing the environment to be configured and managed. The application was containerized with Docker and managed through Docker Compose, ensuring scalability, isolation, and ease of maintenance in a production environment.</p>
+  </li>
+  
+
