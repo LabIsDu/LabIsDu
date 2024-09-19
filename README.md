@@ -47,4 +47,5 @@
 
 My organization. Here are several academic works completed during my graduation in Systems Analysis and Development.</p>
   </li>
+    <img height="150" src="https://github.com/user-attachments/assets/4889b13f-239e-4491-9fa3-80ab380df9dd" alt="Jifa Team"/>
 
