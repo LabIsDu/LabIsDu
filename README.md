@@ -58,7 +58,7 @@
       My organization. Here are several academic works completed during my graduation in Systems Analysis and Development.
     </td>
     <td>
-      <img height="150" src="https://github.com/user-attachments/assets/4889b13f-239e-4491-9fa3-80ab380df9dd" alt="Jifa Team"/>
+      <img height="auto" src="https://github.com/user-attachments/assets/4889b13f-239e-4491-9fa3-80ab380df9dd" alt="Jifa Team"/>
     </td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@
     </td>
     <td>
       <!-- You can add an image for this project if available -->
-      <img height="150" src="path/to/your/image.jpg" alt="Project Image" />
+      <img height="auto" src="https://github.com/user-attachments/assets/4889b13f-239e-4491-9fa3-80ab380df9dd" alt="Project Image" />
     </td>
   </tr>
   <tr>
@@ -82,7 +82,7 @@
     </td>
     <td>
       <!-- You can add an image for this project if available -->
-      <img height="150" src="path/to/your/image.jpg" alt="Eco Race Download Page"/>
+      <img height="auto" src="path/to/your/image.jpg" alt="Eco Race Download Page"/>
     </td>
   </tr>
 </table>
