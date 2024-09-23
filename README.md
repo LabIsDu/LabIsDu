@@ -31,29 +31,48 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" style="padding-right: 10px;" />
 </div>
 
-###
-<h2 align="left">Portfólio</h2>
-<ul>
-  <li>
-    <h3><a href="https://github.com/LabIsDu/Eco-Race">Eco Race</a></h3>
-    <p style="text-align: justify;">A fun and educational endless runner game that teaches players to differentiate between electronic and regular waste while promoting sustainability.</p>
-    <div align="left">
-      <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZ3bjM3MnR6M3hrYjBvZDEybzhmZDlqbGh2cjZ4ejV3OGxvd3Y3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T2kaAhj2XdL9ADzV4d/giphy.gif" alt="Eco Race gif"/>
-    </div>
-  </li>
-  <li>
-    <h3><a href="https://github.com/jifa-team">Jifa Team</a></h3>
-    <p style="text-align: justify;">
 
-My organization. Here are several academic works completed during my graduation in Systems Analysis and Development.</p>
-  </li>
-    <img height="150" src="https://github.com/user-attachments/assets/4889b13f-239e-4491-9fa3-80ab380df9dd" alt="Jifa Team"/>
+<h2 align="left">Portfolio</h2>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <th style="text-align: left; padding: 10px;">Project</th>
+    <th style="text-align: left; padding: 10px;">Description</th>
+    <th style="text-align: left; padding: 10px;">Image</th>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/LabIsDu/Eco-Race" target="_blank">Eco Race</a></h3>
+    </td>
+    <td style="text-align: justify;">
+      A fun and educational endless runner game that teaches players to differentiate between electronic and regular waste while promoting sustainability.
+    </td>
+    <td>
+      <img height="auto" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZ3bjM3MnR6M3hrYjBvZDEybzhmZDlqbGh2cjZ4ejV3OGxvd3Y3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T2kaAhj2XdL9ADzV4d/giphy.gif" alt="Eco Race gif"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/jifa-team" target="_blank">Jifa Team</a></h3>
+    </td>
+    <td style="text-align: justify;">
+      My organization. Here are several academic works completed during my graduation in Systems Analysis and Development.
+    </td>
+    <td>
+      <img height="auto" src="https://github.com/user-attachments/assets/4889b13f-239e-4491-9fa3-80ab380df9dd" alt="Jifa Team"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/LabIsDu/Aplicacao-Iaas-Em-Nuvem" target="_blank">Application of Docker and Docker Compose in the Cloud using IaaS</a></h3>
+    </td>
+    <td style="text-align: justify;">
+      We implemented an application on a virtual machine in the cloud, using Infrastructure as a Service (IaaS). The virtual machine was controlled remotely via SSH, allowing the environment to be configured and managed. The application was containerized with Docker and managed through Docker Compose, ensuring scalability, isolation, and ease of maintenance in a production environment.
+    </td>
+    <td>
+      <!-- You can add an image for this project if available -->
+      <img height="auto" src="path/to/your/image.jpg" alt="Project Image" />
+    </td>
+  </tr>
+</table>
 
-  <li>
-    <h3><a href="https://github.com/LabIsDu/Aplicacao-Iaas-Em-Nuvem">Application of Docker and Docker Compose in the cloud using IaaS</a></h3>
-    <p style="text-align: justify;">
-
-We implemented an application on a virtual machine in the cloud, using Infrastructure as a Service (IaaS). The virtual machine was controlled remotely via SSH, allowing the environment to be configured and managed. The application was containerized with Docker and managed through Docker Compose, ensuring scalability, isolation, and ease of maintenance in a production environment.</p>
-  </li>
-  
 
