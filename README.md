@@ -47,7 +47,7 @@
       A fun and educational endless runner game that teaches players to differentiate between electronic and regular waste while promoting sustainability.
     </td>
     <td>
-      <img height="auto" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZ3bjM3MnR6M3hrYjBvZDEybzhmZDlqbGh2cjZ4ejV3OGxvd3Y3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T2kaAhj2XdL9ADzV4d/giphy.gif" alt="Eco Race gif"/>
+      <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZ3bjM3MnR6M3hrYjBvZDEybzhmZDlqbGh2cjZ4ejV3OGxvd3Y3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T2kaAhj2XdL9ADzV4d/giphy.gif" alt="Eco Race gif"/>
     </td>
   </tr>
   <tr>
@@ -58,7 +58,7 @@
       My organization. Here are several academic works completed during my graduation in Systems Analysis and Development.
     </td>
     <td>
-      <img height="auto" src="https://github.com/user-attachments/assets/4889b13f-239e-4491-9fa3-80ab380df9dd" alt="Jifa Team"/>
+      <img height="150" src="https://github.com/user-attachments/assets/4889b13f-239e-4491-9fa3-80ab380df9dd" alt="Jifa Team"/>
     </td>
   </tr>
   <tr>
@@ -70,7 +70,19 @@
     </td>
     <td>
       <!-- You can add an image for this project if available -->
-      <img height="auto" src="path/to/your/image.jpg" alt="Project Image" />
+      <img height="150" src="path/to/your/image.jpg" alt="Project Image" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/LabIsDu/Eco-Race-Download-Page" target="_blank">Eco Race Download Page</a></h3>
+    </td>
+    <td style="text-align: justify;">
+      A dedicated download page for the Eco Race game, providing users with easy access to download and install the game while offering information about its features and benefits.
+    </td>
+    <td>
+      <!-- You can add an image for this project if available -->
+      <img height="150" src="path/to/your/image.jpg" alt="Eco Race Download Page"/>
     </td>
   </tr>
 </table>
