@@ -1,4 +1,4 @@
-<h1 align="left">Hello, World!</h1>
+<h1 align="left">Hey, I'm Edu.</h1>
 
 ### 
 * Social Media: Eduardo Oliveira
@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+![LabIsDu's Stats](https://github-readme-stats.vercel.app/api?username=LabIsDu&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ###
 <h1 align="left">About me</h1>
