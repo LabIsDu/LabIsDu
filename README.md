@@ -44,10 +44,10 @@
       <h3><a href="https://github.com/LabIsDu/Eco-Race" target="_blank">Eco Race</a></h3>
     </td>
     <td style="text-align: justify;">
-      A fun and educational endless runner game that teaches players to differentiate between electronic and regular waste while promoting sustainability.
+     A fun and educational endless runner game developed by me during my extension at UFCA that teaches players to differentiate between electronic and regular waste, promoting sustainability.
     </td>
     <td>
-      <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZ3bjM3MnR6M3hrYjBvZDEybzhmZDlqbGh2cjZ4ejV3OGxvd3Y3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T2kaAhj2XdL9ADzV4d/giphy.gif" alt="Eco Race gif"/>
+      <img height="auto" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZ3bjM3MnR6M3hrYjBvZDEybzhmZDlqbGh2cjZ4ejV3OGxvd3Y3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T2kaAhj2XdL9ADzV4d/giphy.gif" alt="Eco Race gif"/>
     </td>
   </tr>
   <tr>
