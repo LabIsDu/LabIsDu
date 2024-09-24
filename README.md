@@ -48,10 +48,35 @@
      A fun and educational endless runner game developed by me during my extension at UFCA that teaches players to differentiate between electronic and regular waste, promoting sustainability.
     </td>
     <td>
-      Unity, C#, 2D Animation, .NET, GIMP
+      <ul>
+        <li>Unity</li>
+        <li>C#</li>
+        <li>2D Animation</li>
+        <li>.NET</li>
+        <li>GIMP</li>
+      </ul>
     </td>
     <td>
-      <img height="auto" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZ3bjM3MnR6M3hrYjBvZDEybzhmZDlqbGh2cjZ4ejV3OGxvd3Y3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T2kaAhj2XdL9ADzV4d/giphy.gif" alt="Eco Race gif"/>
+      <img height="auto" src="https://github.com/user-attachments/assets/85a68189-17b9-4d0b-84bf-3ba27e6f6a44" alt="Eco Race Mockup"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/LabIsDu/Eco-Race-Download-Page" target="_blank">Eco Race Download Page</a></h3>
+    </td>
+    <td style="text-align: justify;">
+      A dedicated download page for the Eco Race game, providing users with easy access to download and install the game while offering information about its features and benefits.
+    </td>
+    <td>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>GIMP</li>
+      </ul>
+    </td>
+    <td>
+      <img height="auto" src="https://github.com/user-attachments/assets/380d4596-6fe4-4d9a-8f9b-9d761712df6f" alt="Eco Race Download Page"/>
     </td>
   </tr>
   <tr>
@@ -62,7 +87,13 @@
       My organization. Here are several academic works completed during my graduation in Systems Analysis and Development.
     </td>
     <td>
-      Java, Database, Sqlite3, Wireframe, Cloud etc...
+      <ul>
+        <li>Java</li>
+        <li>Database</li>
+        <li>SQLite3</li>
+        <li>Wireframe</li>
+        <li>Cloud</li>
+      </ul>
     </td>
     <td>
       <img height="auto" src="https://github.com/user-attachments/assets/4889b13f-239e-4491-9fa3-80ab380df9dd" alt="Jifa Team"/>
@@ -76,29 +107,18 @@
       We implemented an application on a virtual machine in the cloud, using Infrastructure as a Service (IaaS). The virtual machine was controlled remotely via SSH, allowing the environment to be configured and managed. The application was containerized with Docker and managed through Docker Compose, ensuring scalability, isolation, and ease of maintenance in a production environment.
     </td>
     <td>
-      Docker, Docker Compose, Linux, SSH
+      <ul>
+        <li>Docker</li>
+        <li>Docker Compose</li>
+        <li>Linux</li>
+        <li>SSH</li>
+      </ul>
     </td>
     <td>
-      <img height="auto" src="https://github.com/user-attachments/assets/4889b13f-239e-4491-9fa3-80ab380df9dd" alt="Project Image" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/LabIsDu/Eco-Race-Download-Page" target="_blank">Eco Race Download Page</a></h3>
-    </td>
-    <td style="text-align: justify;">
-      A dedicated download page for the Eco Race game, providing users with easy access to download and install the game while offering information about its features and benefits.
-    </td>
-    <td>
-      HTML, CSS, JavaScript, GIMP
-    </td>
-    <td>
-      <img height="auto" src="https://github.com/user-attachments/assets/380d4596-6fe4-4d9a-8f9b-9d761712df6f" alt="Eco Race Download Page"/>
+      <img height="auto" src="https://github.com/user-attachments/assets/4889b13f-239e-4491-9fa3-80ab380df9dd" alt="Site Image Mockup" />
     </td>
   </tr>
 </table>
-
-
 
 
 
