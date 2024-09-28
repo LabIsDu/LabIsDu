@@ -6,7 +6,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LabIsDu&bg_color=000000&color=C8A2C8&line=C8A2C8&point=C8A2C8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=LabIsDu&theme=gruvbox&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
