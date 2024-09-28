@@ -1,14 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=200&section=header&text=Eduardo%20Oliveira&fontSize=40&textColor=FFFFFF&fontColor=FFFFFF&textPosition=top" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C8A2C8&height=200&section=header&text=Eduardo%20Oliveira&fontSize=40&textColor=FFFFFF&fontColor=FFFFFF&textPosition=top" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C8A2C8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Eduardo+Oliveira+;I'm+20+years+old;I+am+from+Jucás,+CE;I+study+analysis+and+systems+development+at+UFCA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Eduardo+Oliveira+;I'm+20+years+old;I+am+from+Jucás,+CE;I+study+analysis+and+systems+development+at+UFCA;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LabIsDu&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LabIsDu&bg_color=000000&color=C8A2C8&line=C8A2C8&point=C8A2C8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LabIsDu&theme=onedark&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LabIsDu&theme=gruvbox&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
